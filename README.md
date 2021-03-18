@@ -4,7 +4,7 @@ Predmetni projekat iz predmeta "Sistemi elektronskog plaćanja".
 
 Veb aplikacija koncentratora plaćanja. 
 
-Koncentrator plaćanja ima svoju frontend aplikaciju: **payment-concentrator-frontend** a za backend ima skup mikroservisa: 
+Koncentrator plaćanja ima svoju frontend aplikaciju: **payment-concentrator-frontend** a kao backend ima skup mikroservisa: 
  - **payment-service-provider** - kao poseban servis za čuvanje informacija o klijentima i načinima plaćanja
  - **bank-payment-service** 
  - **paypal-payment-service**
